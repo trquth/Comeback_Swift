@@ -1,0 +1,21 @@
+PODS:
+  - SlideMenuControllerSwift (4.0.0)
+
+DEPENDENCIES:
+  - SlideMenuControllerSwift (from `https://github.com/grizzly/SlideMenuControllerSwift.git`)
+
+EXTERNAL SOURCES:
+  SlideMenuControllerSwift:
+    :git: https://github.com/grizzly/SlideMenuControllerSwift.git
+
+CHECKOUT OPTIONS:
+  SlideMenuControllerSwift:
+    :commit: 671f6ad6e41a42b6160ccf98632f0c9aef6d498e
+    :git: https://github.com/grizzly/SlideMenuControllerSwift.git
+
+SPEC CHECKSUMS:
+  SlideMenuControllerSwift: f9ec1ad1a95d211324d25b15dcdbc94881596716
+
+PODFILE CHECKSUM: b27d1aa55cdc85fcea90e72b28d9d31550a1526d
+
+COCOAPODS: 1.6.0.beta.2
